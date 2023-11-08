@@ -1,0 +1,2 @@
+class RoutineGoal < ApplicationRecord
+end
